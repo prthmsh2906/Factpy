@@ -1,4 +1,4 @@
-num = 19
+num = 16
 factorial = 1   
 if num < 0:    
    print(" Factorial does not exist for negative numbers")    
