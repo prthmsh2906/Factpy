@@ -1,4 +1,4 @@
-num = 2
+num = 3
 factorial = 1   
 if num < 0:    
    print(" Factorial does not exist for negative numbers")    
